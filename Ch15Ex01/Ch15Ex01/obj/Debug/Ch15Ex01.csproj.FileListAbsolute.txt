@@ -1,0 +1,14 @@
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\bin\Debug\Ch15Ex01.exe.config
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\bin\Debug\Ch15Ex01.exe
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\bin\Debug\Ch15Ex01.pdb
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01.csprojAssemblyReference.cache
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\MainWindow.g.cs
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\App.g.cs
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01_MarkupCompile.cache
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01_MarkupCompile.lref
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\MainWindow.baml
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01.g.resources
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01.Properties.Resources.resources
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01.csproj.GenerateResource.cache
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01.exe
+C:\Roman Visual Studio\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01.pdb
